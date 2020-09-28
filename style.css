@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    line-height: 1.6em;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 16px;
+    background: #333333;
+}
+
+#heading {
+    margin-top: 50px;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    color: white;
+}
+
+#weight-box {
+    margin-top: 30px;
+    margin-left: 530px;
+    align-content: center;
+    width: 300px;
+    height: 30px;
+    border: 2px solid black;
+}
+
+.card-block-1 {
+    border: 2px solid rgb(18, 101, 196);
+    align-content: center;
+    margin: 10px 500px;
+    padding: 0 10px;
+    border-radius: 10px;
+    background: rgb(18, 101, 196);
+    color: white;
+}
+
+.card-block-2 {
+    border: 2px solid rgb(3, 167, 25);
+    margin-top: 10px;
+    align-content: center;
+    margin: 10px 500px;
+    padding: 0 10px;
+    border-radius: 10px;
+    background: rgb(3, 167, 25);
+    color: white;
+
+}
+
+.card-block-3 {
+    border: 2px solid rgb(250, 105, 53);
+    margin-top: 10px;
+    align-content: center;
+    margin: 10px 500px;
+    padding: 0 10px;
+    border-radius: 10px;
+    background: rgb(250, 105, 53);
+    color: white;
+}
